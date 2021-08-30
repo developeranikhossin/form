@@ -1,0 +1,26 @@
+.form{
+    text-align: center;
+    background: rgb(54, 226, 10);
+    padding: 42px;
+    margin: 0;
+    display: inline-block;
+    margin-left: 700px;
+}
+.button{
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: royalblue;
+    font-size: 14px;
+    margin: 10px;
+    font-weight: 900;
+}
+.anik{
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: royalblue;
+    font-size: 14px;
+    margin: 10px;
+    font-weight: 900;
+}
